@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14ffc82c.css",
+    "main.js": "/static/js/main.77de8fde.js",
+    "static/js/787.e758f34b.chunk.js": "/static/js/787.e758f34b.chunk.js",
+    "static/media/olivia.png": "/static/media/olivia.4774b4b50afdde458a67.png",
+    "index.html": "/index.html",
+    "main.14ffc82c.css.map": "/static/css/main.14ffc82c.css.map",
+    "main.77de8fde.js.map": "/static/js/main.77de8fde.js.map",
+    "787.e758f34b.chunk.js.map": "/static/js/787.e758f34b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ffc82c.css",
+    "static/js/main.77de8fde.js"
+  ]
+}
